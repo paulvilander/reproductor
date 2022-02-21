@@ -1,0 +1,72 @@
+@import "./buttons.css";
+@import url("../assets/fonts/Roboto-Regular.ttf");
+body {
+	background-color: #26b4bc;
+	font-family: "Roboto", sans-serif;
+}
+.wrapper {
+	max-inline-size: 900px;
+	margin: auto;
+}
+.player {
+	margin-block-start: 25%;
+	position: relative;
+}
+.player video {
+	inline-size: 100%;
+	aspect-ratio: 16/9;
+	vertical-align: middle;
+	object-fit: cover;
+}
+.player-title {
+	color: white;
+	position: absolute;
+	inset-block-start: 0;
+	inset-inline-start: 20px;
+}
+.player-actions {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
+
+.player-sound {
+	position: absolute;
+	inset-block-end: 0;
+	justify-content: flex-end;
+	inset-inline: 0;
+	display: flex;
+	margin: 25px 30px;
+}
+
+.player-sound input {
+	transform: rotate(-90deg);
+	bottom: 60px;
+	right: -80px;
+	position: absolute;
+}
+.player-progress {
+	position: absolute;
+	inset-block-end: 0;
+	inset-inline: 0;
+	display: flex;
+	padding: 10px;
+}
+
+.player-progress input {
+	flex: 1;
+}
+
+.player-overlay {
+	position: absolute;
+	inset: 0;
+	opacity: 0;
+	transition: 0.3s opacity;
+}
+
+.player:hover .player-overlay {
+	opacity: 1;
+}

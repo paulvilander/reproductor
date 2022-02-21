@@ -1,0 +1,35 @@
+.button {
+	inline-size: 32px;
+	block-size: 32px;
+	border: none;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+}
+
+.button:active {
+	transform: scale(0.9);
+}
+
+#play {
+	background-image: url("../assets/play.svg");
+}
+
+#pause {
+	background-image: url("../assets/pause.svg");
+}
+
+#backward {
+	background-image: url("../assets/-10.svg");
+}
+
+#forward {
+	background-image: url("../assets/+10.svg");
+}
+#mute {
+	background-image: url("../assets/mute.svg");
+}
+#speaker {
+	background-image: url("../assets/volumen.svg");
+}

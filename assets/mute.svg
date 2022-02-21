@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 48 36"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="43ae7008d8d24ab781522d5cf23af8dc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .a {
+        fill: #d3d4ed;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">Mute</title>
+  <g
+     id="g12">
+    <path
+       class="a"
+       d="M21.18.62l-10.46,8A2,2,0,0,1,9.51,9H5a5,5,0,0,0-5,5v8a5,5,0,0,0,5,5H9.51a2,2,0,0,1,1.21.41l10.46,8A3,3,0,0,0,26,33V3A3,3,0,0,0,21.18.62Z"
+       id="path8" />
+    <path
+       class="a"
+       d="M43.88,18l3.53-3.54a2,2,0,0,0-2.82-2.82l-3.54,3.53-3.54-3.53a2,2,0,1,0-2.82,2.82L38.22,18l-3.53,3.54a2,2,0,1,0,2.82,2.82l3.54-3.53,3.54,3.53a2,2,0,0,0,2.82-2.82Z"
+       id="path10" />
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 48 36"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="61b4f4ac7ef5c2bd175289f33e62facd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .a {
+        fill: #d3d4ed;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">Volumen</title>
+  <g
+     id="g14">
+    <path
+       class="a"
+       d="M21.18.62l-10.46,8A2,2,0,0,1,9.51,9H5a5,5,0,0,0-5,5v8a5,5,0,0,0,5,5H9.51a2,2,0,0,1,1.21.41l10.46,8A3,3,0,0,0,26,33V3A3,3,0,0,0,21.18.62Z"
+       id="path8" />
+    <path
+       class="a"
+       d="M40.43,33.43A2,2,0,0,1,39,30,17,17,0,0,0,39,6a2,2,0,1,1,2.82-2.84,21,21,0,0,1,0,29.7A2,2,0,0,1,40.43,33.43Z"
+       id="path10" />
+    <path
+       class="a"
+       d="M34.78,27.78a2,2,0,0,1-1.41-3.41,9,9,0,0,0,0-12.74,2,2,0,0,1,2.82-2.82,13,13,0,0,1,0,18.38A2,2,0,0,1,34.78,27.78Z"
+       id="path12" />
+  </g>
+</svg>
